@@ -1,6 +1,6 @@
 nltk
 requests
 bs4
-BeautifulSoup
+BeautifulSoup4
 pandas
 glob
