@@ -1,0 +1,6 @@
+nltk
+requests
+bs4
+BeautifulSoup
+pandas
+glob
