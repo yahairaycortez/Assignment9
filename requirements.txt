@@ -1,6 +1,9 @@
 nltk
 requests
 bs4
+<<<<<<< HEAD
 beautifulsoup4
+=======
+BeautifulSoup4
+>>>>>>> aada6dd05e82518fe38f0c3234416798d97f4d22
 pandas
-glob
